@@ -1,0 +1,2 @@
+wiki/Map_(higher-order_function)
+wiki/Monad_(functional_programming)
